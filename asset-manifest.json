@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/thehorseshop/static/css/main.8a56a549.css",
+    "main.css": "/thehorseshop/static/css/main.1ab8e0d0.css",
     "main.js": "/thehorseshop/static/js/main.ffa6ad4f.js",
     "index.html": "/thehorseshop/index.html",
-    "main.8a56a549.css.map": "/thehorseshop/static/css/main.8a56a549.css.map",
+    "main.1ab8e0d0.css.map": "/thehorseshop/static/css/main.1ab8e0d0.css.map",
     "main.ffa6ad4f.js.map": "/thehorseshop/static/js/main.ffa6ad4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a56a549.css",
+    "static/css/main.1ab8e0d0.css",
     "static/js/main.ffa6ad4f.js"
   ]
 }
