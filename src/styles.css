@@ -1,0 +1,31 @@
+/* Add padding to the body to account for the fixed navbar */
+body {
+  padding-top: 70px;
+  background-color: #f8f9fa;
+}
+
+/* Custom styles for rounded corners */
+.rounded-lg {
+  border-radius: 0.8rem !important;
+}
+
+.rounded-top-lg {
+    border-top-left-radius: 0.8rem !important;
+    border-top-right-radius: 0.8rem !important;
+}
+
+/* Card hover effect */
+.card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Navbar link active style */
+.nav-link.active {
+    font-weight: bold;
+    color: #ffc107 !important;
+}
